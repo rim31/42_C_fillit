@@ -3,7 +3,7 @@ this project is the new version of tetris.
 It will compress tetrominos in the top left of a minium square :
 
 # Run
-git clone https://github.com/rim31/42-C-fillit.git
+git clone https://github.com/rim31/42_C_fillit.git
 
 make
 
@@ -29,10 +29,10 @@ exemple :
 etc ...
 
 # Render
-![Texte alternatif](https://github.com/rim31/42-C-fillit/blob/master/Screen%20Shot%202016-05-18%20at%2010.22.42%20AM.png "result")
+![Texte alternatif](https://github.com/rim31/42_C_fillit/blob/master/Screen%20Shot%202016-05-18%20at%2010.22.42%20AM.png "result")
 
 bonus, tetrominos in different color for a better view
 
 #exple of a map
-![Texte alternatif](https://github.com/rim31/42-C-fillit/blob/master/Screen%20Shot%202016-05-18%20at%2010.25.45%20AM.png "result")
+![Texte alternatif](https://github.com/rim31/42_C_fillit/blob/master/Screen%20Shot%202016-05-18%20at%2010.25.45%20AM.png "result")
 
